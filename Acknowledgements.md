@@ -44,3 +44,7 @@ All sounds used in this app have been updated, remixed, or otherwise modified to
 - kevp888 (CC4) - [210523_1598_FR_StrongWind.wav](https://freesound.org/people/kevp888/sounds/573289/)
 - Elanor1995 (CC0) - [Winter wind.wav](https://freesound.org/people/Elanor1995/sounds/688841/)
 - Astounded (CC4) - [Wind_blowing_gusting_through_french_castle_tower.wav](https://freesound.org/people/Astounded/sounds/483479/)
+
+- gurek (CC0) - [Birds-near home 2.wav](https://freesound.org/people/gurek/sounds/433000/)
+- Defelozedd94 (CC0) - [Crickets At Night - Raw sound](https://freesound.org/people/Defelozedd94/sounds/522299/)
+- stomachache (CC3) - [whale.wav](https://freesound.org/people/stomachache/sounds/53266/)
