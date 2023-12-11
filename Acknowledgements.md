@@ -1,6 +1,11 @@
-# Night Quiet Acknowledgements
+# Acknowledgements
 
 We extend our heartfelt thanks to the following for providing the beautiful and serene assets that enhance the experience of our app:
+
+## Promo
+- Designed by upklyak / Freepik - [Meadow with pond, conifers and hills at night](https://www.freepik.com/free-vector/meadow-with-pond-conifers-hills-night_23007728.htm)
+- Designed by svstudioart / Freepik - [New modern realistic front view black iphone mockup isolated on white mobile template vector](https://www.freepik.com/free-vector/new-modern-realistic-front-view-black-iphone-mockup-isolated-white-mobile-template-vector_33632328.htm)
+- Eka Restu D. Putra - [iPhone 14 Screen Mockup Template](https://www.behance.net/gallery/177678899/iPhone-14-Screen-Mockup-Template), [erdp](https://erdp.me)
 
 ## Images
 - Designed by macrovector / Freepik - Evening fog over tops of trees of pine forest: [Evening fog over tops of trees of pine forest](https://www.freepik.com/free-vector/evening-fog-tops-trees-pine-forest_6804326.htm)
